@@ -10,7 +10,7 @@ let spaceshipCreated = false;
 function preload() {
   spaceshipImg = loadImage('https://github.com/Darylliss/Asteroids1.2/blob/029385e956587f38250b62e0e93621d829cdf1b3/Spaceship.png');
   asteroidImg = loadImage('Glowasteroid.png');
-  galaxyImg = loadImage('Galaxy.jpg');
+  galaxyImg = loadImage('https://github.com/Darylliss/Asteroids1.2/blob/d56a030fe5793e9f180c9ffcfdfb590adbf1aa17/Galaxy.jpg');
 }
 
 function setup() {
